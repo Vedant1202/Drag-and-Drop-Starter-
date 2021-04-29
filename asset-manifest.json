@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Drag-and-Drop-Starter-/static/css/main.c4ad9f58.chunk.css",
+    "main.js": "/Drag-and-Drop-Starter-/static/js/main.d33afa62.chunk.js",
+    "main.js.map": "/Drag-and-Drop-Starter-/static/js/main.d33afa62.chunk.js.map",
+    "runtime-main.js": "/Drag-and-Drop-Starter-/static/js/runtime-main.5851b4ff.js",
+    "runtime-main.js.map": "/Drag-and-Drop-Starter-/static/js/runtime-main.5851b4ff.js.map",
+    "static/js/2.2cdba102.chunk.js": "/Drag-and-Drop-Starter-/static/js/2.2cdba102.chunk.js",
+    "static/js/2.2cdba102.chunk.js.map": "/Drag-and-Drop-Starter-/static/js/2.2cdba102.chunk.js.map",
+    "static/js/3.6c24fb1c.chunk.js": "/Drag-and-Drop-Starter-/static/js/3.6c24fb1c.chunk.js",
+    "static/js/3.6c24fb1c.chunk.js.map": "/Drag-and-Drop-Starter-/static/js/3.6c24fb1c.chunk.js.map",
+    "index.html": "/Drag-and-Drop-Starter-/index.html",
+    "static/css/main.c4ad9f58.chunk.css.map": "/Drag-and-Drop-Starter-/static/css/main.c4ad9f58.chunk.css.map",
+    "static/js/2.2cdba102.chunk.js.LICENSE.txt": "/Drag-and-Drop-Starter-/static/js/2.2cdba102.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5851b4ff.js",
+    "static/js/2.2cdba102.chunk.js",
+    "static/css/main.c4ad9f58.chunk.css",
+    "static/js/main.d33afa62.chunk.js"
+  ]
+}
