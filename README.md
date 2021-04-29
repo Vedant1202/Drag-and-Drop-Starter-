@@ -3,7 +3,7 @@
 A starter project for creating drag and drop feature in [ReactJS](https://reactjs.org/). Built with using just ReactJS and no external JS or CSS library. 
 This allows for better compatibility if you need to integrate it into your project.
 
-_Dev.to Blog Post series at [Drag and Drop Starter Project with ReactJS (2 Part Series)](https://dev.to/vedant1202/series/12467)
+_Dev.to Blog Post series at [Drag and Drop Starter Project with ReactJS (2 Part Series)](https://dev.to/vedant1202/series/12467)_
 
 _Demo at [Drag and Drop Starter Project](http://Vedant1202.github.io/Drag-and-Drop-Starter-)_
 
