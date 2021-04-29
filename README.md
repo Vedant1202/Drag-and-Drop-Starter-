@@ -43,10 +43,10 @@ npm start
 ## Screencasts
 
 1. Drag and drop and rearrange elements
-![drag and drop and rearrange elements gif](https://raw.githubusercontent.com/Vedant1202/blob/master/screencasts/re-drag.gif)
+![drag and drop and rearrange elements gif](screencasts/re-drag.gif)
 
 2. Remove/delete elements
-![remove or delete elements gif](https://raw.githubusercontent.com/Vedant1202/blob/master/screencasts/remove-elements.gif)
+![remove or delete elements gif](screencasts/remove-elements.gif)
 
 
 
