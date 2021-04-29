@@ -1,38 +1,55 @@
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  flex-wrap: nowrap;
+  padding: 10px 10px 0 10px;
 }
 
-.App-link {
-  color: #61dafb;
+.components-list {
+  width: 18vw;
+  margin-right: 2vw;
+  padding: 4vh 2vw 0 2vw;
+  height: 95vh;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.drop-area {
+  width: 80vw;
+  height: 95vh;
+  border: 1px black dashed;
+  border-radius: 1vw;
+  font-size: 64px;
+  text-align: center;
+  line-height: 95vh;
+  color: gray;
+  user-select: none;
+}
+
+.component {
+  cursor: pointer;
+  width: 12vw;
+  text-align: center;
+  font-size: 20px;
+  line-height: 10vh;
+  background: white;
+}
+
+.components-list .component {
+  margin-bottom: 4vh;
+}
+
+.blue {
+  color: blue;
+  border: 2px solid blue;
+  border-radius: 10px;
+}
+
+.green {
+  color: green;
+  border: 2px solid green;
+  border-radius: 10px;
+}
+
+.purple {
+  color: purple;
+  border: 2px solid purple;
+  border-radius: 10px;
 }
