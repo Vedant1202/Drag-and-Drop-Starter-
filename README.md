@@ -40,15 +40,6 @@ npm start
 4. Go to the browser at `http://localhost:3000/`
 
 
-## Screencasts
-
-1. Drag and drop and rearrange elements
-![drag and drop and rearrange elements gif](screencasts/re-drag.gif)
-
-2. Remove/delete elements
-![remove or delete elements gif](screencasts/remove-elements.gif)
-
-
 
 ## Getting Started with Create React App
 
