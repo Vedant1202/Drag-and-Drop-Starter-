@@ -1,4 +1,56 @@
-# Getting Started with Create React App
+# Drag and Drop Starter Project
+
+A starter project for creating drag and drop feature in [ReactJS](https://reactjs.org/). Built with using just ReactJS and no external JS or CSS library. 
+This allows for better compatibility if you need to integrate it into your project.
+
+_Dev.to Blog Post series at [Drag and Drop Starter Project with ReactJS (2 Part Series)](https://dev.to/vedant1202/series/12467)
+
+_Demo at [Drag and Drop Starter Project](http://Vedant1202.github.io/Drag-and-Drop-Starter-)_
+
+
+## Features
+- Drag and drop components
+- Rearrange components
+- Remove/delete components
+
+## Installation
+
+1. Clone the repository
+```bash
+git clone https://github.com/Vedant1202/Drag-and-Drop-Starter-
+cd Drag-and-Drop-Starter-
+```
+
+2. Install the packages ([Yarn](https://yarnpkg.com/) package manager recommended)
+```bash
+yarn install
+
+## Or if you have NPM
+npm install
+```
+
+3. Run the project 
+```bash
+yarn start
+
+## Or if you have NPM
+npm start
+```
+
+4. Go to the browser at `http://localhost:3000/`
+
+
+## Screencasts
+
+1. Drag and drop and rearrange elements
+![drag and drop and rearrange elements gif](https://raw.githubusercontent.com/Vedant1202/blob/master/screencasts/re-drag.gif)
+
+2. Remove/delete elements
+![remove or delete elements gif](https://raw.githubusercontent.com/Vedant1202/blob/master/screencasts/remove-elements.gif)
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
